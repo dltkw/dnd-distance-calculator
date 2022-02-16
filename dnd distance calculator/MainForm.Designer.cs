@@ -1,7 +1,7 @@
 ﻿
 namespace dnd_distance_calculator
 {
-    partial class Form1
+    partial class MainForm
     {
         /// <summary>
         /// Required designer variable.
